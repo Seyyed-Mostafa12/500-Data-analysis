@@ -61,10 +61,6 @@ To reproduce the analysis and generate the plots, simply run the `500 Data_scrip
 *   The impact of the linear transformation on the mean, standard deviation, and overall distribution of the data.
 *   Consistency of the estimated mean and standard deviation with expected values after linear transformation.
 
-**Author:**
-
-[Your Name/GitHub Username]
-
 **Course:**
 
 Statistics and Probability Course - Dr. Hashem Hamedi Vafa
