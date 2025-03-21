@@ -2,6 +2,9 @@
 
 This repository contains a jupyter notebook file that performs a comprehensive statistical analysis on a dataset of 500 numerical values. The analysis is based on exercises from Dr. Hashem Hamedi Vafa's statistics and probability course and covers key concepts in descriptive statistics and data distribution fitting.
 
+### Before Read Notebook (Persian version)
+Download & install [Estedad](https://github.com/aminabedi68/Estedad/releases/download/7.3/Estedad-v7.3.zip) font for read better markdown
+
 **Key Operations Performed:**
 
 *   **Data Exploration and Classification:**
