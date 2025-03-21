@@ -1,6 +1,6 @@
 ## Analysis of 500 Data Points from Statistics and Probability Course
 
-This repository contains a Python script (`500 Data_script.py`) that performs a comprehensive statistical analysis on a dataset of 500 numerical values. The analysis is based on exercises from Dr. Hashem Hamedi Vafa's statistics and probability course and covers key concepts in descriptive statistics and data distribution fitting.
+This repository contains a jupyter notebook file that performs a comprehensive statistical analysis on a dataset of 500 numerical values. The analysis is based on exercises from Dr. Hashem Hamedi Vafa's statistics and probability course and covers key concepts in descriptive statistics and data distribution fitting.
 
 **Key Operations Performed:**
 
