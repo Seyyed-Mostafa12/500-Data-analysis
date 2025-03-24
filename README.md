@@ -38,9 +38,6 @@ Download & install [Estedad](https://github.com/aminabedi68/Estedad/releases/dow
     *   **Applying Linear Transformation:** Transformation of the original dataset using the linear equation  $y = 5 - 3x$.
     *   **Repeating Descriptive Analysis:** Re-calculation of frequency tables, mean, standard deviation, and Gaussian fitting for the transformed data to observe the effect of linear transformation on statistical properties.
 
-**File Descriptions:**
-
-*   `500 Data_script.py`: Python script containing the data analysis code, including data loading, statistical calculations, visualization generation, and Gaussian function fitting. The script uses libraries such as `NumPy`, `pandas`, `matplotlib`, and `SciPy`.
 
 **Libraries Used:**
 
